@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FunWithAlbiYT
+- 👀 I’m interested in Programming Lua PHP etc
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on Roblox Physics Solver
+- 📫 How to reach me email me: albiyt@protonmail.com
