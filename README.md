@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FunWithAlbiYT
-- 👀 I’m interested in Programming Lua PHP etc
+- 👀 I’m interested in Programming PHP, Python, Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on the Python language
 - 📫 How to reach me email me: albiyt@proton.me
