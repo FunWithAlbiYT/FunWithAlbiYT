@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FunWithAlbiYT
 - 👀 I’m interested in Programming PHP, PY, JS, ASM, C, CPP
-- 🌱 I’m currently learning Assembly
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any PHP project
-- 📫 How to reach me email me: albi@terrorist.lol
+- 📫 How to reach me email me: 6albi.shehu9@gmail.com (~~albi@terrorist.lol~~)
